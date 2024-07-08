@@ -1,2 +1,2 @@
-say-hello:
+cdy-hello:
 	Hello, World!
